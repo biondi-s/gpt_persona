@@ -1,0 +1,167 @@
+{
+    "What are your company's plans for your physical store network in the short term?": {
+        "answer": {
+            "1": "Significantly larger (>30%)",
+            "2": "Moderately larger (10–30%)",
+            "3": "Minimally larger (<10%)",
+            "4": "The same",
+            "5": "Minimally smaller (<10%)",
+            "6": "Moderately smaller (10–30%)",
+            "7": "Significantly smaller (>30%)"
+        },
+        "gt": {"1": 0.04, "2": 0.26, "3": 0.42, "4": 0.13, "5": 0.11, "6": 0.03, "7": 0.01}
+        
+    },
+
+    "Please rate 1 to 5 the focus (1 minimal focus, 5 maximum focus) of your expansion, from minimal to maximum focus: Expansion in markets we are already present in": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.75}
+    },
+
+    "Please rate 1 to 5 the focus (1 minimal focus, 5 maximum focus) of your expansion, from minimal to maximum focus: Brand stores expansion": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.63}
+    },
+
+    "Please rate 1 to 5 the focus (1 minimal focus, 5 maximum focus) of your expansion, from minimal to maximum focus: Expansion into new markets": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.47}
+    },
+
+    "Please rate 1 to 5 the focus (1 minimal focus, 5 maximum focus) of your expansion, from minimal to maximum focus: Flagship stores expansion": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.37}
+    },
+
+    "Are you currently present in Retail park locations?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 5}
+    },
+
+    "Are you currently present in Suburban high street locations?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 4}
+    },
+
+    "Are you currently present in City center and high street locations?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 3}
+    },
+
+    "Are you currently present in Regional shopping center locations?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 2}
+    },
+
+    "Are you currently present in Sub-regional shopping centre locations?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 1}
+    },
+
+    "Considering the locations you are present in currently. Do you thin your portfolio will focus on Retail park moving forward?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 1}
+    },
+
+    "Considering the locations you are present in currently. Do you thin your portfolio will focus on Suburban high street moving forward?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 2}
+    },
+
+    "Considering the locations you are present in currently. Do you thin your portfolio will focus on City center and high street moving forward?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 3}
+    },
+
+    "Considering the locations you are present in currently. Do you thin your portfolio will focus on Regional shopping center moving forward?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 4}
+    },
+
+    "Considering the locations you are present in currently. Do you thin your portfolio will focus on Sub-regional shopping centre moving forward?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"rank": 5}
+    },
+
+    "With the aim of improving your current stores, please rank the following investment options in term of priority actions for your company": {
+        "answer": {
+            "1": "Customer experience",
+            "2": "Shop fit-out",
+            "3": "Employee wellness",
+            "4": "Inventory management"
+        },
+        "gt": {"1": 1, "2": 2, "3": 3, "4": 4}
+    },
+
+    "Does your company have plans to start or expand your retail property portfolio ownership?": {
+        "answer": {
+            "1": "Yes, we are planning to expand our portfolio of owned stores",
+            "2": "No, our focus is on leasing stores, not owning them"
+        },
+        "gt": {"1": 0.16, "2": 0.84}
+    },
+
+    "Please evaluate 1 to 5 the performances (1 online more effective, 5 brick-and-mortar more effective) of the Consumer engagement of brick-and-mortar and online retail.": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.78}
+    },
+
+    "Please evaluate 1 to 5 the performances (1 online more effective, 5 brick-and-mortar more effective) of the Cross-selling products of brick-and-mortar and online retail.": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.69}
+    },
+
+    "Please evaluate 1 to 5 the performances (1 online more effective, 5 brick-and-mortar more effective) of the Sales productivity of brick-and-mortar and online retail.": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.53}
+    },
+
+    "Please evaluate 1 to 5 the performances (1 online more effective, 5 brick-and-mortar more effective) of the Introduction of new lines/products of brick-and-mortar and online retail.": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.55}
+    },
+
+    "Please evaluate 1 to 5 the performances (1 online more effective, 5 brick-and-mortar more effective) of the Acquiring new customers of brick-and-mortar and online retail.": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.52}
+    },
+
+    "To what extent do yuo agree or disagree (1 completely disagree and 5 completelly agree) with: Moving forward physical retail will remain a core part of our business strategy": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.97}
+    },
+
+    "To what extent do yuo agree or disagree (1 completely disagree and 5 completelly agree) with: The presence of brick-and-mortal stores increases online sales within the local catchment": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.79}
+    },
+
+    "To what extent do yuo agree or disagree (1 completely disagree and 5 completelly agree) with: In person events have had a significant effect in strengthening our customer engagement": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.71}
+    },
+
+    "To what extent do yuo agree or disagree (1 completely disagree and 5 completelly agree) with: Click and collect and takeaway services (F&B) are an essential function of brick-and-mortar stores": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.71}
+    },
+
+    "To what extent do yuo agree or disagree (1 completely disagree and 5 completelly agree) with: The presence of leisure operations in shopping schemas benefit our brick-and-mortar store sales": {
+        "answer": {"1": "1", "2": "2", "3": "3", "4": "4", "5": "5"},
+        "gt": {"avg": 0.65}
+    },
+
+    "Has your company introduced online return fees when customers return via post?": {
+        "answer": {"1": "Yes", "2": "No"},
+        "gt": {"1": 0.3, "2": 0.7}
+    },
+
+    "How is your company responding to the rise of Artificial Intelligence (AI)?": {
+        "answer": {
+            "1": "We are not looking into AI",
+            "2": "We are actively exploring AI, but are yet to implement it",
+            "3": "We have already implemented AI solutions"
+        },
+        "gt": {"1": 0.14, "2": 0.61, "3": 0.25}
+    }
+}
